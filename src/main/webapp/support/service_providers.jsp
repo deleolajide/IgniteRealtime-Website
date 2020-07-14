@@ -78,6 +78,17 @@
                                 and developing features in order to accommodate your needs.
                             </p>
                         </div>
+                    </div>                    
+                    <div class="ignite_service-provider">
+                        <span class="ignite_service-provider_logo"><img src="../images/logo_smack.png" alt="Florian Schmaus" width="34" height="33" border="0"></span>
+                        <div class="ignite_service-provider_content">
+                            <h3>Free Solutions</h3>
+                            <span class="ignite_service-provider_url"><a href="https://github.com/igniterealtime/Smack#professional-services">Smack Professional Services</a></span>
+                            <p>
+                                Provides paid services ranging from XMPP/Smack related consulting to designing
+                                and developing features in order to accommodate your needs.
+                            </p>
+                        </div>
                     </div>
 
                     <div class="ignite_service-provider">
